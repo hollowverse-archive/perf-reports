@@ -1,0 +1,258 @@
+{
+  "https://hollowverse.com": [
+    {
+      "name": "Security Headers",
+      "records": [
+        {
+          "name": "Grade",
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "name": "WebPageTest",
+      "url": "http://www.webpagetest.org/results.php?test=180303_DT_12bf7c647eb1b354c78e22b6c6d31cab",
+      "records": [
+        {
+          "name": "Number of requests",
+          "scores": {
+            "firstView": 99,
+            "repeatView": 18
+          }
+        },
+        {
+          "name": "Time to first byte",
+          "scores": {
+            "firstView": 1454,
+            "repeatView": 1548
+          }
+        },
+        {
+          "name": "Fully loaded",
+          "scores": {
+            "firstView": 16136,
+            "repeatView": 8241
+          }
+        },
+        {
+          "name": "Response size",
+          "scores": {
+            "firstView": 1261823,
+            "repeatView": 128601
+          }
+        },
+        {
+          "name": "Response size (compressed)",
+          "scores": {
+            "firstView": 902933,
+            "repeatView": 123559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lighthouse via WebPageTest",
+      "records": [
+        {
+          "name": "Performance",
+          "scores": {
+            "firstView": 0.43470588235294,
+            "repeatView": 0.43470588235294
+          }
+        },
+        {
+          "name": "First Meaningful Paint",
+          "scores": {
+            "firstView": 4879.8,
+            "repeatView": 4879.8
+          }
+        },
+        {
+          "name": "First Interactive",
+          "scores": {
+            "firstView": 11280.339,
+            "repeatView": 11280.339
+          }
+        },
+        {
+          "name": "Consistently Interactive",
+          "scores": {
+            "firstView": 11280.339,
+            "repeatView": 11280.339
+          }
+        },
+        {
+          "name": "Speed Index Metric",
+          "scores": {
+            "firstView": 8880,
+            "repeatView": 8880
+          }
+        },
+        {
+          "name": "Estimated Input Latency",
+          "scores": {
+            "firstView": 34.9,
+            "repeatView": 34.9
+          }
+        },
+        {
+          "name": "PWA",
+          "scores": {
+            "firstView": 0.36363636363636,
+            "repeatView": 0.36363636363636
+          }
+        },
+        {
+          "name": "Accessibility",
+          "scores": {
+            "firstView": 0.92207792207792,
+            "repeatView": 0.92207792207792
+          }
+        },
+        {
+          "name": "Best Practices",
+          "scores": {
+            "firstView": 0.8125,
+            "repeatView": 0.8125
+          }
+        },
+        {
+          "name": "SEO",
+          "scores": {
+            "firstView": 0.77777777777778,
+            "repeatView": 0.77777777777778
+          }
+        }
+      ]
+    }
+  ],
+  "https://hollowverse.com/Tom_Hanks": [
+    {
+      "name": "Security Headers",
+      "records": [
+        {
+          "name": "Grade",
+          "scores": {
+            "firstView": "A"
+          }
+        }
+      ]
+    },
+    {
+      "name": "WebPageTest",
+      "url": "http://www.webpagetest.org/results.php?test=180303_NJ_3b3ac9ec4f304164595dd950bd52d4d3",
+      "records": [
+        {
+          "name": "Number of requests",
+          "scores": {
+            "firstView": 16,
+            "repeatView": 2
+          }
+        },
+        {
+          "name": "Time to first byte",
+          "scores": {
+            "firstView": 1556,
+            "repeatView": 1470
+          }
+        },
+        {
+          "name": "Fully loaded",
+          "scores": {
+            "firstView": 5805,
+            "repeatView": 3882
+          }
+        },
+        {
+          "name": "Response size",
+          "scores": {
+            "firstView": 179613,
+            "repeatView": 8304
+          }
+        },
+        {
+          "name": "Response size (compressed)",
+          "scores": {
+            "firstView": 147879,
+            "repeatView": 7960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lighthouse via WebPageTest",
+      "records": [
+        {
+          "name": "Performance",
+          "scores": {
+            "firstView": 0.86764705882353,
+            "repeatView": 0.86764705882353
+          }
+        },
+        {
+          "name": "First Meaningful Paint",
+          "scores": {
+            "firstView": 2299.9,
+            "repeatView": 2299.9
+          }
+        },
+        {
+          "name": "First Interactive",
+          "scores": {
+            "firstView": 4300.438,
+            "repeatView": 4300.438
+          }
+        },
+        {
+          "name": "Consistently Interactive",
+          "scores": {
+            "firstView": 4300.4379990234,
+            "repeatView": 4300.4379990234
+          }
+        },
+        {
+          "name": "Speed Index Metric",
+          "scores": {
+            "firstView": 2623,
+            "repeatView": 2623
+          }
+        },
+        {
+          "name": "Estimated Input Latency",
+          "scores": {
+            "firstView": 27.7,
+            "repeatView": 27.7
+          }
+        },
+        {
+          "name": "PWA",
+          "scores": {
+            "firstView": 0.45454545454545,
+            "repeatView": 0.45454545454545
+          }
+        },
+        {
+          "name": "Accessibility",
+          "scores": {
+            "firstView": 0.96629213483146,
+            "repeatView": 0.96629213483146
+          }
+        },
+        {
+          "name": "Best Practices",
+          "scores": {
+            "firstView": 0.9375,
+            "repeatView": 0.9375
+          }
+        },
+        {
+          "name": "SEO",
+          "scores": {
+            "firstView": 0.9,
+            "repeatView": 0.9
+          }
+        }
+      ]
+    }
+  ]
+}
