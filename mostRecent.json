@@ -1,51 +1,53 @@
 {
-  "https://hollowverse.com": [
+  "https://hollowverse.com/?branch=master": [
     {
       "name": "Security Headers",
       "records": [
         {
           "name": "Grade",
-          "scores": {}
+          "scores": {
+            "firstView": "A"
+          }
         }
       ]
     },
     {
       "name": "WebPageTest",
-      "url": "http://www.webpagetest.org/results.php?test=180303_DT_12bf7c647eb1b354c78e22b6c6d31cab",
+      "url": "http://www.webpagetest.org/results.php?test=180304_RZ_076ba63133e9e58648190cd6e79f4136",
       "records": [
         {
           "name": "Number of requests",
           "scores": {
-            "firstView": 99,
-            "repeatView": 18
+            "firstView": 82,
+            "repeatView": 16
           }
         },
         {
           "name": "Time to first byte",
           "scores": {
-            "firstView": 1454,
-            "repeatView": 1548
+            "firstView": 1688,
+            "repeatView": 1598
           }
         },
         {
           "name": "Fully loaded",
           "scores": {
-            "firstView": 16136,
-            "repeatView": 8241
+            "firstView": 14066,
+            "repeatView": 8545
           }
         },
         {
           "name": "Response size",
           "scores": {
-            "firstView": 1261823,
-            "repeatView": 128601
+            "firstView": 1150649,
+            "repeatView": 127573
           }
         },
         {
           "name": "Response size (compressed)",
           "scores": {
-            "firstView": 902933,
-            "repeatView": 123559
+            "firstView": 795379,
+            "repeatView": 123567
           }
         }
       ]
@@ -56,43 +58,43 @@
         {
           "name": "Performance",
           "scores": {
-            "firstView": 0.43470588235294,
-            "repeatView": 0.43470588235294
+            "firstView": 0.37294117647059,
+            "repeatView": 0.37294117647059
           }
         },
         {
           "name": "First Meaningful Paint",
           "scores": {
-            "firstView": 4879.8,
-            "repeatView": 4879.8
+            "firstView": 5782.3,
+            "repeatView": 5782.3
           }
         },
         {
           "name": "First Interactive",
           "scores": {
-            "firstView": 11280.339,
-            "repeatView": 11280.339
+            "firstView": 12301.026,
+            "repeatView": 12301.026
           }
         },
         {
           "name": "Consistently Interactive",
           "scores": {
-            "firstView": 11280.339,
-            "repeatView": 11280.339
+            "firstView": 12301.026,
+            "repeatView": 12301.026
           }
         },
         {
           "name": "Speed Index Metric",
           "scores": {
-            "firstView": 8880,
-            "repeatView": 8880
+            "firstView": 9832,
+            "repeatView": 9832
           }
         },
         {
           "name": "Estimated Input Latency",
           "scores": {
-            "firstView": 34.9,
-            "repeatView": 34.9
+            "firstView": 35.1,
+            "repeatView": 35.1
           }
         },
         {
@@ -126,21 +128,19 @@
       ]
     }
   ],
-  "https://hollowverse.com/Tom_Hanks": [
+  "https://hollowverse.com/Tom_Hanks?branch=master": [
     {
       "name": "Security Headers",
       "records": [
         {
           "name": "Grade",
-          "scores": {
-            "firstView": "A"
-          }
+          "scores": {}
         }
       ]
     },
     {
       "name": "WebPageTest",
-      "url": "http://www.webpagetest.org/results.php?test=180303_NJ_3b3ac9ec4f304164595dd950bd52d4d3",
+      "url": "http://www.webpagetest.org/results.php?test=180304_Y7_c350c7a2929b51e44305f879b77d6935",
       "records": [
         {
           "name": "Number of requests",
@@ -152,29 +152,29 @@
         {
           "name": "Time to first byte",
           "scores": {
-            "firstView": 1556,
-            "repeatView": 1470
+            "firstView": 1650,
+            "repeatView": 1816
           }
         },
         {
           "name": "Fully loaded",
           "scores": {
-            "firstView": 5805,
-            "repeatView": 3882
+            "firstView": 6897,
+            "repeatView": 4614
           }
         },
         {
           "name": "Response size",
           "scores": {
-            "firstView": 179613,
-            "repeatView": 8304
+            "firstView": 181587,
+            "repeatView": 8311
           }
         },
         {
           "name": "Response size (compressed)",
           "scores": {
-            "firstView": 147879,
-            "repeatView": 7960
+            "firstView": 149782,
+            "repeatView": 7967
           }
         }
       ]
@@ -185,43 +185,43 @@
         {
           "name": "Performance",
           "scores": {
-            "firstView": 0.86764705882353,
-            "repeatView": 0.86764705882353
+            "firstView": 0.84117647058824,
+            "repeatView": 0.84117647058824
           }
         },
         {
           "name": "First Meaningful Paint",
           "scores": {
-            "firstView": 2299.9,
-            "repeatView": 2299.9
+            "firstView": 2293.1,
+            "repeatView": 2293.1
           }
         },
         {
           "name": "First Interactive",
           "scores": {
-            "firstView": 4300.438,
-            "repeatView": 4300.438
+            "firstView": 4887.601,
+            "repeatView": 4887.601
           }
         },
         {
           "name": "Consistently Interactive",
           "scores": {
-            "firstView": 4300.4379990234,
-            "repeatView": 4300.4379990234
+            "firstView": 4887.601,
+            "repeatView": 4887.601
           }
         },
         {
           "name": "Speed Index Metric",
           "scores": {
-            "firstView": 2623,
-            "repeatView": 2623
+            "firstView": 3025,
+            "repeatView": 3025
           }
         },
         {
           "name": "Estimated Input Latency",
           "scores": {
-            "firstView": 27.7,
-            "repeatView": 27.7
+            "firstView": 21.1,
+            "repeatView": 21.1
           }
         },
         {
@@ -248,8 +248,8 @@
         {
           "name": "SEO",
           "scores": {
-            "firstView": 0.9,
-            "repeatView": 0.9
+            "firstView": 0.8,
+            "repeatView": 0.8
           }
         }
       ]
