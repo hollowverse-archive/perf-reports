@@ -5,49 +5,47 @@
       "records": [
         {
           "name": "Grade",
-          "scores": {
-            "firstView": "A"
-          }
+          "scores": {}
         }
       ]
     },
     {
       "name": "WebPageTest",
-      "url": "http://www.webpagetest.org/results.php?test=180304_RZ_076ba63133e9e58648190cd6e79f4136",
+      "url": "http://www.webpagetest.org/results.php?test=180305_CV_f7725218e6e386ff53e45a8d228578b9",
       "records": [
         {
           "name": "Number of requests",
           "scores": {
-            "firstView": 82,
-            "repeatView": 16
+            "firstView": 81,
+            "repeatView": 36
           }
         },
         {
           "name": "Time to first byte",
           "scores": {
-            "firstView": 1688,
-            "repeatView": 1598
+            "firstView": 1596,
+            "repeatView": 1597
           }
         },
         {
           "name": "Fully loaded",
           "scores": {
-            "firstView": 14066,
-            "repeatView": 8545
+            "firstView": 13414,
+            "repeatView": 13099
           }
         },
         {
           "name": "Response size",
           "scores": {
-            "firstView": 1150649,
-            "repeatView": 127573
+            "firstView": 1150024,
+            "repeatView": 270496
           }
         },
         {
           "name": "Response size (compressed)",
           "scores": {
-            "firstView": 795379,
-            "repeatView": 123567
+            "firstView": 795086,
+            "repeatView": 228585
           }
         }
       ]
@@ -58,43 +56,43 @@
         {
           "name": "Performance",
           "scores": {
-            "firstView": 0.37294117647059,
-            "repeatView": 0.37294117647059
+            "firstView": 0.36705882352941,
+            "repeatView": 0.36705882352941
           }
         },
         {
           "name": "First Meaningful Paint",
           "scores": {
-            "firstView": 5782.3,
-            "repeatView": 5782.3
+            "firstView": 5138.6,
+            "repeatView": 5138.6
           }
         },
         {
           "name": "First Interactive",
           "scores": {
-            "firstView": 12301.026,
-            "repeatView": 12301.026
+            "firstView": 13681.51,
+            "repeatView": 13681.51
           }
         },
         {
           "name": "Consistently Interactive",
           "scores": {
-            "firstView": 12301.026,
-            "repeatView": 12301.026
+            "firstView": 13681.51,
+            "repeatView": 13681.51
           }
         },
         {
           "name": "Speed Index Metric",
           "scores": {
-            "firstView": 9832,
-            "repeatView": 9832
+            "firstView": 10105,
+            "repeatView": 10105
           }
         },
         {
           "name": "Estimated Input Latency",
           "scores": {
-            "firstView": 35.1,
-            "repeatView": 35.1
+            "firstView": 29.2,
+            "repeatView": 29.2
           }
         },
         {
@@ -134,13 +132,15 @@
       "records": [
         {
           "name": "Grade",
-          "scores": {}
+          "scores": {
+            "firstView": "A"
+          }
         }
       ]
     },
     {
       "name": "WebPageTest",
-      "url": "http://www.webpagetest.org/results.php?test=180304_Y7_c350c7a2929b51e44305f879b77d6935",
+      "url": "http://www.webpagetest.org/results.php?test=180305_GZ_906e0b3397c7286779959887ada98e8c",
       "records": [
         {
           "name": "Number of requests",
@@ -152,29 +152,29 @@
         {
           "name": "Time to first byte",
           "scores": {
-            "firstView": 1650,
-            "repeatView": 1816
+            "firstView": 1578,
+            "repeatView": 1772
           }
         },
         {
           "name": "Fully loaded",
           "scores": {
-            "firstView": 6897,
-            "repeatView": 4614
+            "firstView": 6628,
+            "repeatView": 4574
           }
         },
         {
           "name": "Response size",
           "scores": {
-            "firstView": 181587,
-            "repeatView": 8311
+            "firstView": 178640,
+            "repeatView": 8330
           }
         },
         {
           "name": "Response size (compressed)",
           "scores": {
-            "firstView": 149782,
-            "repeatView": 7967
+            "firstView": 146721,
+            "repeatView": 7986
           }
         }
       ]
@@ -185,43 +185,43 @@
         {
           "name": "Performance",
           "scores": {
-            "firstView": 0.84117647058824,
-            "repeatView": 0.84117647058824
+            "firstView": 0.77117647058824,
+            "repeatView": 0.77117647058824
           }
         },
         {
           "name": "First Meaningful Paint",
           "scores": {
-            "firstView": 2293.1,
-            "repeatView": 2293.1
+            "firstView": 3408.3,
+            "repeatView": 3408.3
           }
         },
         {
           "name": "First Interactive",
           "scores": {
-            "firstView": 4887.601,
-            "repeatView": 4887.601
+            "firstView": 4785.847,
+            "repeatView": 4785.847
           }
         },
         {
           "name": "Consistently Interactive",
           "scores": {
-            "firstView": 4887.601,
-            "repeatView": 4887.601
+            "firstView": 4785.847,
+            "repeatView": 4785.847
           }
         },
         {
           "name": "Speed Index Metric",
           "scores": {
-            "firstView": 3025,
-            "repeatView": 3025
+            "firstView": 3734,
+            "repeatView": 3734
           }
         },
         {
           "name": "Estimated Input Latency",
           "scores": {
-            "firstView": 21.1,
-            "repeatView": 21.1
+            "firstView": 16,
+            "repeatView": 16
           }
         },
         {
@@ -248,8 +248,8 @@
         {
           "name": "SEO",
           "scores": {
-            "firstView": 0.8,
-            "repeatView": 0.8
+            "firstView": 0.9,
+            "repeatView": 0.9
           }
         }
       ]
