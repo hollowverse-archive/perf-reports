@@ -13,41 +13,41 @@
     },
     {
       "name": "WebPageTest",
-      "url": "http://www.webpagetest.org/results.php?test=180306_DJ_9f5a91fdfbeca19215454edc162d7b1d",
+      "url": "http://www.webpagetest.org/results.php?test=180307_A0_c55a4c1c6a4a89781f2284750b9725aa",
       "records": [
         {
           "name": "Number of requests",
           "scores": {
-            "firstView": 81,
-            "repeatView": 27
+            "firstView": 98,
+            "repeatView": 20
           }
         },
         {
           "name": "Time to first byte",
           "scores": {
-            "firstView": 1590,
-            "repeatView": 1675
+            "firstView": 1640,
+            "repeatView": 1634
           }
         },
         {
           "name": "Fully loaded",
           "scores": {
-            "firstView": 13185,
-            "repeatView": 11861
+            "firstView": 22987,
+            "repeatView": 8594
           }
         },
         {
           "name": "Response size",
           "scores": {
-            "firstView": 1150974,
-            "repeatView": 145294
+            "firstView": 1282854,
+            "repeatView": 129033
           }
         },
         {
           "name": "Response size (compressed)",
           "scores": {
-            "firstView": 795501,
-            "repeatView": 139447
+            "firstView": 914312,
+            "repeatView": 124451
           }
         }
       ]
@@ -58,43 +58,43 @@
         {
           "name": "Performance",
           "scores": {
-            "firstView": 0.27470588235294,
-            "repeatView": 0.27470588235294
+            "firstView": 0.28235294117647,
+            "repeatView": 0.28235294117647
           }
         },
         {
           "name": "First Meaningful Paint",
           "scores": {
-            "firstView": 6626.7,
-            "repeatView": 6626.7
+            "firstView": 5888.9,
+            "repeatView": 5888.9
           }
         },
         {
           "name": "First Interactive",
           "scores": {
-            "firstView": 15990.082,
-            "repeatView": 15990.082
+            "firstView": 16614.099,
+            "repeatView": 16614.099
           }
         },
         {
           "name": "Consistently Interactive",
           "scores": {
-            "firstView": 15990.082,
-            "repeatView": 15990.082
+            "firstView": 16614.099,
+            "repeatView": 16614.099
           }
         },
         {
           "name": "Speed Index Metric",
           "scores": {
-            "firstView": 13485,
-            "repeatView": 13485
+            "firstView": 13135,
+            "repeatView": 13135
           }
         },
         {
           "name": "Estimated Input Latency",
           "scores": {
-            "firstView": 46.3,
-            "repeatView": 46.3
+            "firstView": 39.3,
+            "repeatView": 39.3
           }
         },
         {
@@ -134,13 +134,15 @@
       "records": [
         {
           "name": "Grade",
-          "scores": {}
+          "scores": {
+            "firstView": "A"
+          }
         }
       ]
     },
     {
       "name": "WebPageTest",
-      "url": "http://www.webpagetest.org/results.php?test=180306_9S_c1e19b983b25f29938fc66d086bc9638",
+      "url": "http://www.webpagetest.org/results.php?test=180307_JR_3a147a7a28fbf45f5ba4deb6e5a2aee1",
       "records": [
         {
           "name": "Number of requests",
@@ -152,29 +154,29 @@
         {
           "name": "Time to first byte",
           "scores": {
-            "firstView": 1831,
-            "repeatView": 1644
+            "firstView": 1614,
+            "repeatView": 1694
           }
         },
         {
           "name": "Fully loaded",
           "scores": {
-            "firstView": 7162,
-            "repeatView": 4029
+            "firstView": 6794,
+            "repeatView": 4124
           }
         },
         {
           "name": "Response size",
           "scores": {
-            "firstView": 180153,
-            "repeatView": 8303
+            "firstView": 178639,
+            "repeatView": 8337
           }
         },
         {
           "name": "Response size (compressed)",
           "scores": {
-            "firstView": 148374,
-            "repeatView": 7987
+            "firstView": 146737,
+            "repeatView": 8020
           }
         }
       ]
@@ -185,43 +187,43 @@
         {
           "name": "Performance",
           "scores": {
-            "firstView": 0.79294117647059,
-            "repeatView": 0.79294117647059
+            "firstView": 0.83117647058824,
+            "repeatView": 0.83117647058824
           }
         },
         {
           "name": "First Meaningful Paint",
           "scores": {
-            "firstView": 2871.2,
-            "repeatView": 2871.2
+            "firstView": 2516,
+            "repeatView": 2516
           }
         },
         {
           "name": "First Interactive",
           "scores": {
-            "firstView": 5157.888,
-            "repeatView": 5157.888
+            "firstView": 4857.803,
+            "repeatView": 4857.803
           }
         },
         {
           "name": "Consistently Interactive",
           "scores": {
-            "firstView": 5157.888,
-            "repeatView": 5157.888
+            "firstView": 4857.8030009766,
+            "repeatView": 4857.8030009766
           }
         },
         {
           "name": "Speed Index Metric",
           "scores": {
-            "firstView": 3185,
-            "repeatView": 3185
+            "firstView": 2840,
+            "repeatView": 2840
           }
         },
         {
           "name": "Estimated Input Latency",
           "scores": {
-            "firstView": 27.7,
-            "repeatView": 27.7
+            "firstView": 24.6,
+            "repeatView": 24.6
           }
         },
         {

@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-03-06
+# Report for tests performed on 2018-03-07
 
 ## [https://hollowverse.com/?branch=master](https://hollowverse.com/?branch=master)
 
@@ -8,26 +8,26 @@
 | ----- | ---------- | ----------- |
 | Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180306_DJ_9f5a91fdfbeca19215454edc162d7b1d)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180307_A0_c55a4c1c6a4a89781f2284750b9725aa)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 81         | 27          |
-| Time to first byte         | 1.59s      | 1.68s       |
-| Fully loaded               | 13.19s     | 11.86s      |
-| Response size              | 1124.00KiB | 141.89KiB   |
-| Response size (compressed) | 776.86KiB  | 136.18KiB   |
+| Number of requests         | 98         | 20          |
+| Time to first byte         | 1.64s      | 1.63s       |
+| Fully loaded               | 22.99s     | 8.59s       |
+| Response size              | 1252.79KiB | 126.01KiB   |
+| Response size (compressed) | 892.88KiB  | 121.53KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 27%        | 27%         |
-| First Meaningful Paint   | 6.63s      | 6.63s       |
-| First Interactive        | 15.99s     | 15.99s      |
-| Consistently Interactive | 15.99s     | 15.99s      |
-| Speed Index Metric       | 13485      | 13485       |
-| Estimated Input Latency  | 0.05s      | 0.05s       |
+| Performance              | 28%        | 28%         |
+| First Meaningful Paint   | 5.89s      | 5.89s       |
+| First Interactive        | 16.61s     | 16.61s      |
+| Consistently Interactive | 16.61s     | 16.61s      |
+| Speed Index Metric       | 13135      | 13135       |
+| Estimated Input Latency  | 0.04s      | 0.04s       |
 | PWA                      | 36%        | 36%         |
 | Accessibility            | 92%        | 92%         |
 | Best Practices           | 81%        | 81%         |
@@ -39,28 +39,28 @@
 
 | Test  | First View | Repeat View |
 | ----- | ---------- | ----------- |
-| Grade | N/A        | N/A         |
+| Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180306_9S_c1e19b983b25f29938fc66d086bc9638)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180307_JR_3a147a7a28fbf45f5ba4deb6e5a2aee1)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.83s      | 1.64s       |
-| Fully loaded               | 7.16s      | 4.03s       |
-| Response size              | 175.93KiB  | 8.11KiB     |
-| Response size (compressed) | 144.90KiB  | 7.80KiB     |
+| Time to first byte         | 1.61s      | 1.69s       |
+| Fully loaded               | 6.79s      | 4.12s       |
+| Response size              | 174.45KiB  | 8.14KiB     |
+| Response size (compressed) | 143.30KiB  | 7.83KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 79%        | 79%         |
-| First Meaningful Paint   | 2.87s      | 2.87s       |
-| First Interactive        | 5.16s      | 5.16s       |
-| Consistently Interactive | 5.16s      | 5.16s       |
-| Speed Index Metric       | 3185       | 3185        |
-| Estimated Input Latency  | 0.03s      | 0.03s       |
+| Performance              | 83%        | 83%         |
+| First Meaningful Paint   | 2.52s      | 2.52s       |
+| First Interactive        | 4.86s      | 4.86s       |
+| Consistently Interactive | 4.86s      | 4.86s       |
+| Speed Index Metric       | 2840       | 2840        |
+| Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 97%        | 97%         |
 | Best Practices           | 94%        | 94%         |
