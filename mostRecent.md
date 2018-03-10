@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-03-09
+# Report for tests performed on 2018-03-10
 
 ## [https://hollowverse.com/?branch=master](https://hollowverse.com/?branch=master)
 
@@ -8,30 +8,15 @@
 | ----- | ---------- | ----------- |
 | Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180309_KX_dbb7cdb63bf13fa5c7bb7a78f52bfae8)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180310_EP_d7c1f74749885c6b9bc450212415c475)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 82         | 30          |
-| Time to first byte         | 1.51s      | 1.54s       |
-| Fully loaded               | 11.54s     | 7.58s       |
-| Response size              | 1124.04KiB | 156.32KiB   |
-| Response size (compressed) | 742.25KiB  | 123.69KiB   |
-
-### Lighthouse via WebPageTest
-
-| Test                     | First View | Repeat View |
-| ------------------------ | ---------- | ----------- |
-| Performance              | 25%        | 25%         |
-| First Meaningful Paint   | 7.11s      | 7.11s       |
-| First Interactive        | 16.58s     | 16.58s      |
-| Consistently Interactive | 16.58s     | 16.58s      |
-| Speed Index Metric       | 14049      | 14049       |
-| Estimated Input Latency  | 0.05s      | 0.05s       |
-| PWA                      | 36%        | 36%         |
-| Accessibility            | 92%        | 92%         |
-| Best Practices           | 81%        | 81%         |
-| SEO                      | 78%        | 78%         |
+| Number of requests         | 97         | 16          |
+| Time to first byte         | 1.75s      | 1.67s       |
+| Fully loaded               | 17.04s     | 5.24s       |
+| Response size              | 1245.25KiB | 152.98KiB   |
+| Response size (compressed) | 823.66KiB  | 123.58KiB   |
 
 ## [https://hollowverse.com/Tom_Hanks?branch=master](https://hollowverse.com/Tom_Hanks?branch=master)
 
@@ -39,29 +24,14 @@
 
 | Test  | First View | Repeat View |
 | ----- | ---------- | ----------- |
-| Grade | N/A        | N/A         |
+| Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180309_7N_267286ff95bc9e782e65c8843d72e90f)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180310_NQ_6560626f87877ec19014945cd657abc5)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
 | Time to first byte         | 1.77s      | 1.64s       |
-| Fully loaded               | 5.02s      | 2.51s       |
-| Response size              | 180.06KiB  | 7.11KiB     |
-| Response size (compressed) | 137.31KiB  | 0.00KiB     |
-
-### Lighthouse via WebPageTest
-
-| Test                     | First View | Repeat View |
-| ------------------------ | ---------- | ----------- |
-| Performance              | 80%        | 80%         |
-| First Meaningful Paint   | 2.97s      | 2.97s       |
-| First Interactive        | 4.82s      | 4.82s       |
-| Consistently Interactive | 4.82s      | 4.82s       |
-| Speed Index Metric       | 3272       | 3272        |
-| Estimated Input Latency  | 0.02s      | 0.02s       |
-| PWA                      | 45%        | 45%         |
-| Accessibility            | 97%        | 97%         |
-| Best Practices           | 94%        | 94%         |
-| SEO                      | 90%        | 90%         |
+| Fully loaded               | 6.57s      | 4.64s       |
+| Response size              | 200.41KiB  | 8.08KiB     |
+| Response size (compressed) | 169.12KiB  | 7.77KiB     |
