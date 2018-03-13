@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-03-12
+# Report for tests performed on 2018-03-13
 
 ## [https://hollowverse.com/?branch=master](https://hollowverse.com/?branch=master)
 
@@ -8,30 +8,15 @@
 | ----- | ---------- | ----------- |
 | Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180312_EJ_c37f069c1b66cb5f6d6c21d07117698b)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180313_FK_8f0e1e51558a0530678658d281b1e05a)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 93         | 33          |
-| Time to first byte         | 2.37s      | 1.96s       |
-| Fully loaded               | 19.21s     | 10.17s      |
-| Response size              | 1269.74KiB | 239.64KiB   |
-| Response size (compressed) | 822.11KiB  | 190.43KiB   |
-
-### Lighthouse via WebPageTest
-
-| Test                     | First View | Repeat View |
-| ------------------------ | ---------- | ----------- |
-| Performance              | 41%        | 41%         |
-| First Meaningful Paint   | 5.16s      | 5.16s       |
-| First Interactive        | 11.77s     | 11.77s      |
-| Consistently Interactive | 11.77s     | 11.77s      |
-| Speed Index Metric       | 9234       | 9234        |
-| Estimated Input Latency  | 0.03s      | 0.03s       |
-| PWA                      | 36%        | 36%         |
-| Accessibility            | 92%        | 92%         |
-| Best Practices           | 81%        | 81%         |
-| SEO                      | 78%        | 78%         |
+| Number of requests         | 58         | 46          |
+| Time to first byte         | 1.78s      | 1.79s       |
+| Fully loaded               | 43.50s     | 32.75s      |
+| Response size              | 739.88KiB  | 597.12KiB   |
+| Response size (compressed) | 380.63KiB  | 440.73KiB   |
 
 ## [https://hollowverse.com/Tom_Hanks?branch=master](https://hollowverse.com/Tom_Hanks?branch=master)
 
@@ -41,27 +26,27 @@
 | ----- | ---------- | ----------- |
 | Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180312_1Q_e9cd6de69d3d91a74e8fe2416db4b6f3)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180313_F1_eebd7df58bdb7c778053b6cb5a43cb12)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 16         | 2           |
-| Time to first byte         | 2.22s      | 1.66s       |
-| Fully loaded               | 5.45s      | 2.46s       |
-| Response size              | 204.24KiB  | 6.98KiB     |
-| Response size (compressed) | 161.33KiB  | 0.00KiB     |
+| Number of requests         | 16         | 3           |
+| Time to first byte         | 1.84s      | 1.75s       |
+| Fully loaded               | 4.43s      | 2.54s       |
+| Response size              | 201.86KiB  | 7.13KiB     |
+| Response size (compressed) | 158.80KiB  | 0.00KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 77%        | 77%         |
-| First Meaningful Paint   | 3.02s      | 3.02s       |
-| First Interactive        | 5.51s      | 5.51s       |
-| Consistently Interactive | 5.51s      | 5.51s       |
-| Speed Index Metric       | 3323       | 3323        |
+| Performance              | 84%        | 84%         |
+| First Meaningful Paint   | 2.38s      | 2.38s       |
+| First Interactive        | 4.75s      | 4.75s       |
+| Consistently Interactive | 4.75s      | 4.75s       |
+| Speed Index Metric       | 3651       | 3651        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 97%        | 97%         |
-| Best Practices           | 94%        | 94%         |
+| Best Practices           | 88%        | 88%         |
 | SEO                      | 90%        | 90%         |
