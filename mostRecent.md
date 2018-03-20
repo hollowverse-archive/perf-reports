@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-03-19
+# Report for tests performed on 2018-03-20
 
 ## [https://hollowverse.com](https://hollowverse.com)
 
@@ -6,27 +6,27 @@
 
 | Test  | First View | Repeat View |
 | ----- | ---------- | ----------- |
-| Grade | N/A        | N/A         |
+| Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180319_P7_a8b4e2373aa875c9bddf50c6bc9d362d)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180320_V6_52269b0695c4665c8cd8d2c9d23ebe2c)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 88         | 35          |
-| Time to first byte         | 1.55s      | 1.69s       |
-| Fully loaded               | 11.58s     | 9.71s       |
-| Response size              | 1205.22KiB | 251.35KiB   |
-| Response size (compressed) | 804.19KiB  | 71.22KiB    |
+| Number of requests         | 86         | 38          |
+| Time to first byte         | 1.53s      | 1.62s       |
+| Fully loaded               | 11.53s     | 15.91s      |
+| Response size              | 1205.85KiB | 254.78KiB   |
+| Response size (compressed) | 804.34KiB  | 71.23KiB    |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 36%        | 36%         |
-| First Meaningful Paint   | 5.76s      | 5.76s       |
-| First Interactive        | 12.69s     | 12.69s      |
-| Consistently Interactive | 12.69s     | 12.69s      |
-| Speed Index Metric       | 10116      | 10116       |
+| Performance              | 41%        | 41%         |
+| First Meaningful Paint   | 4.80s      | 4.80s       |
+| First Interactive        | 12.47s     | 12.47s      |
+| Consistently Interactive | 12.47s     | 12.47s      |
+| Speed Index Metric       | 8803       | 8803        |
 | Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -39,27 +39,27 @@
 
 | Test  | First View | Repeat View |
 | ----- | ---------- | ----------- |
-| Grade | A          | N/A         |
+| Grade | N/A        | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180319_DF_c9377bf019a4c49765edf058ce267dc8)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180320_X1_c314992d7da6c34554bc75daa6c3f463)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.46s      | 1.49s       |
-| Fully loaded               | 4.54s      | 2.52s       |
-| Response size              | 203.91KiB  | 6.97KiB     |
-| Response size (compressed) | 161.07KiB  | 0.00KiB     |
+| Time to first byte         | 1.53s      | 1.54s       |
+| Fully loaded               | 4.42s      | 2.43s       |
+| Response size              | 204.46KiB  | 6.98KiB     |
+| Response size (compressed) | 161.62KiB  | 0.00KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 80%        | 80%         |
-| First Meaningful Paint   | 2.22s      | 2.22s       |
-| First Interactive        | 6.04s      | 6.04s       |
-| Consistently Interactive | 6.04s      | 6.04s       |
-| Speed Index Metric       | 2524       | 2524        |
+| Performance              | 88%        | 88%         |
+| First Meaningful Paint   | 2.07s      | 2.07s       |
+| First Interactive        | 4.43s      | 4.43s       |
+| Consistently Interactive | 4.43s      | 4.43s       |
+| Speed Index Metric       | 2429       | 2429        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
