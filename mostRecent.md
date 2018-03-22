@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-03-21
+# Report for tests performed on 2018-03-22
 
 ## [https://hollowverse.com](https://hollowverse.com)
 
@@ -6,28 +6,28 @@
 
 | Test  | First View | Repeat View |
 | ----- | ---------- | ----------- |
-| Grade | A          | N/A         |
+| Grade | N/A        | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180321_M9_cd32a3b57e929186eb0e6f7c5b9a312d)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180322_YG_0a374c5d3b0a9bf60becc45ad945a0e5)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 86         | 27          |
-| Time to first byte         | 1.52s      | 1.73s       |
-| Fully loaded               | 11.16s     | 6.79s       |
-| Response size              | 1189.34KiB | 184.88KiB   |
-| Response size (compressed) | 787.79KiB  | 121.13KiB   |
+| Number of requests         | 86         | 62          |
+| Time to first byte         | 1.76s      | 1.83s       |
+| Fully loaded               | 12.70s     | 13.94s      |
+| Response size              | 1192.42KiB | 467.44KiB   |
+| Response size (compressed) | 842.47KiB  | 432.68KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 36%        | 36%         |
-| First Meaningful Paint   | 5.58s      | 5.58s       |
-| First Interactive        | 9.74s      | 9.74s       |
-| Consistently Interactive | 17.05s     | 17.05s      |
-| Speed Index Metric       | 14628      | 14628       |
-| Estimated Input Latency  | 0.04s      | 0.04s       |
+| Performance              | 35%        | 35%         |
+| First Meaningful Paint   | 5.66s      | 5.66s       |
+| First Interactive        | 9.53s      | 9.53s       |
+| Consistently Interactive | 18.12s     | 18.12s      |
+| Speed Index Metric       | 15822      | 15822       |
+| Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 92%        | 92%         |
 | Best Practices           | 81%        | 81%         |
@@ -51,27 +51,27 @@
 
 | Test  | First View | Repeat View |
 | ----- | ---------- | ----------- |
-| Grade | N/A        | N/A         |
+| Grade | A          | N/A         |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180321_J7_c3816ded8ad509656e85f72dae88aaba)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180322_RE_49f3116c5f80fdc9466e7b44fe981846)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.65s      | 1.83s       |
-| Fully loaded               | 4.81s      | 1.57s       |
-| Response size              | 204.47KiB  | 6.97KiB     |
-| Response size (compressed) | 161.63KiB  | 0.00KiB     |
+| Time to first byte         | 2.31s      | 1.83s       |
+| Fully loaded               | 4.86s      | 2.51s       |
+| Response size              | 205.34KiB  | 8.12KiB     |
+| Response size (compressed) | 169.15KiB  | 7.80KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 87%        | 87%         |
-| First Meaningful Paint   | 2.08s      | 2.08s       |
-| First Interactive        | 4.55s      | 4.55s       |
-| Consistently Interactive | 4.55s      | 4.55s       |
-| Speed Index Metric       | 2372       | 2372        |
+| Performance              | 72%        | 72%         |
+| First Meaningful Paint   | 3.94s      | 3.94s       |
+| First Interactive        | 5.18s      | 5.18s       |
+| Consistently Interactive | 5.18s      | 5.18s       |
+| Speed Index Metric       | 3996       | 3996        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
