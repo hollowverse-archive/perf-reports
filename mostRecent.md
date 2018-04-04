@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-04-03
+# Report for tests performed on 2018-04-04
 
 ## https://hollowverse.com
 
@@ -20,25 +20,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180403_GW_05071b01ad8389863f8522a66fdf2c68)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180404_8W_5c6713526330fee9be96f9b7c30e9b97)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 74         | 30          |
-| Time to first byte         | 1.62s      | 1.85s       |
-| Fully loaded               | 13.97s     | 11.38s      |
-| Response size              | 1192.32KiB | 244.51KiB   |
-| Response size (compressed) | 850.41KiB  | 238.88KiB   |
+| Number of requests         | 77         | 34          |
+| Time to first byte         | 1.59s      | 1.70s       |
+| Fully loaded               | 14.03s     | 16.05s      |
+| Response size              | 1184.91KiB | 256.65KiB   |
+| Response size (compressed) | 842.43KiB  | 229.93KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 42%        | 42%         |
-| First Meaningful Paint   | 4.95s      | 4.95s       |
-| First Interactive        | 11.70s     | 11.70s      |
-| Consistently Interactive | 11.70s     | 11.70s      |
-| Speed Index Metric       | 9141       | 9141        |
+| Performance              | 38%        | 38%         |
+| First Meaningful Paint   | 5.59s      | 5.59s       |
+| First Interactive        | 12.32s     | 12.32s      |
+| Consistently Interactive | 12.32s     | 12.32s      |
+| Speed Index Metric       | 9697       | 9697        |
 | Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -51,7 +51,7 @@
 
 | URL                               | Grade |
 | --------------------------------- | ----- |
-| https://hollowverse.com/Tom_Hanks | A     |
+| https://hollowverse.com/Tom_Hanks | N/A   |
 
 ### Mobile Friendliness
 
@@ -65,26 +65,26 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180403_S3_5fbfbb430003dce124a46b3f9c7bb87c)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180404_RV_afab0535a48f0295d5f8cc0a56c74792)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.61s      | 1.63s       |
-| Fully loaded               | 6.45s      | 3.30s       |
-| Response size              | 208.20KiB  | 8.07KiB     |
-| Response size (compressed) | 169.41KiB  | 7.75KiB     |
+| Time to first byte         | 1.61s      | 1.76s       |
+| Fully loaded               | 6.89s      | 4.29s       |
+| Response size              | 208.21KiB  | 8.09KiB     |
+| Response size (compressed) | 169.42KiB  | 7.77KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 85%        | 85%         |
-| First Meaningful Paint   | 2.23s      | 2.23s       |
-| First Interactive        | 4.70s      | 4.70s       |
-| Consistently Interactive | 4.70s      | 4.70s       |
-| Speed Index Metric       | 2588       | 2588        |
-| Estimated Input Latency  | 0.03s      | 0.03s       |
+| Performance              | 84%        | 84%         |
+| First Meaningful Paint   | 2.48s      | 2.48s       |
+| First Interactive        | 4.69s      | 4.69s       |
+| Consistently Interactive | 4.69s      | 4.69s       |
+| Speed Index Metric       | 2780       | 2780        |
+| Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
 | Best Practices           | 94%        | 94%         |
@@ -104,7 +104,7 @@
 
 | Function                                       | Number of Invocation Errors (for the past 24 hours) |
 | ---------------------------------------------- | --------------------------------------------------- |
-| track-performance-production-reportPerformance | 3                                                   |
+| track-performance-production-reportPerformance | 0                                                   |
 | process-image-production-processImage          | 0                                                   |
 | assignEnvironment                              | 0                                                   |
 | process-image-development-processImage         | 0                                                   |
