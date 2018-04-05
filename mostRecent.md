@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-04-04
+# Report for tests performed on 2018-04-05
 
 ## https://hollowverse.com
 
@@ -6,7 +6,7 @@
 
 | URL                     | Grade |
 | ----------------------- | ----- |
-| https://hollowverse.com | A     |
+| https://hollowverse.com | N/A   |
 
 ### Mobile Friendliness
 
@@ -20,25 +20,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180404_8W_5c6713526330fee9be96f9b7c30e9b97)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180405_T7_bfad08d548e3b762c2c2933903c4e6bd)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 77         | 34          |
-| Time to first byte         | 1.59s      | 1.70s       |
-| Fully loaded               | 14.03s     | 16.05s      |
-| Response size              | 1184.91KiB | 256.65KiB   |
-| Response size (compressed) | 842.43KiB  | 229.93KiB   |
+| Number of requests         | 95         | 29          |
+| Time to first byte         | 1.70s      | 1.69s       |
+| Fully loaded               | 23.37s     | 11.85s      |
+| Response size              | 1292.34KiB | 235.34KiB   |
+| Response size (compressed) | 930.27KiB  | 228.53KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 38%        | 38%         |
-| First Meaningful Paint   | 5.59s      | 5.59s       |
-| First Interactive        | 12.32s     | 12.32s      |
-| Consistently Interactive | 12.32s     | 12.32s      |
-| Speed Index Metric       | 9697       | 9697        |
+| Performance              | 29%        | 29%         |
+| First Meaningful Paint   | 6.72s      | 6.72s       |
+| First Interactive        | 14.66s     | 14.66s      |
+| Consistently Interactive | 14.66s     | 14.66s      |
+| Speed Index Metric       | 11327      | 11327       |
 | Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -51,7 +51,7 @@
 
 | URL                               | Grade |
 | --------------------------------- | ----- |
-| https://hollowverse.com/Tom_Hanks | N/A   |
+| https://hollowverse.com/Tom_Hanks | A     |
 
 ### Mobile Friendliness
 
@@ -65,25 +65,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180404_RV_afab0535a48f0295d5f8cc0a56c74792)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180405_YF_1471cf6f1602d392808dcd1ee56cc5a1)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.61s      | 1.76s       |
-| Fully loaded               | 6.89s      | 4.29s       |
-| Response size              | 208.21KiB  | 8.09KiB     |
-| Response size (compressed) | 169.42KiB  | 7.77KiB     |
+| Time to first byte         | 1.66s      | 1.62s       |
+| Fully loaded               | 6.29s      | 3.23s       |
+| Response size              | 213.07KiB  | 8.08KiB     |
+| Response size (compressed) | 174.29KiB  | 7.75KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
 | Performance              | 84%        | 84%         |
-| First Meaningful Paint   | 2.48s      | 2.48s       |
-| First Interactive        | 4.69s      | 4.69s       |
-| Consistently Interactive | 4.69s      | 4.69s       |
-| Speed Index Metric       | 2780       | 2780        |
+| First Meaningful Paint   | 2.43s      | 2.43s       |
+| First Interactive        | 4.83s      | 4.83s       |
+| Consistently Interactive | 4.83s      | 4.83s       |
+| Speed Index Metric       | 2744       | 2744        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
