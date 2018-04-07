@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-04-06
+# Report for tests performed on 2018-04-07
 
 ## https://hollowverse.com
 
@@ -6,7 +6,7 @@
 
 | URL                     | Grade |
 | ----------------------- | ----- |
-| https://hollowverse.com | N/A   |
+| https://hollowverse.com | A     |
 
 ### Mobile Friendliness
 
@@ -20,25 +20,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180406_YD_505bfa6e3d91faf155e8436e778e641b)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180407_34_c56673ca96eb82acb5238ea74c4466ff)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 78         | 13          |
-| Time to first byte         | 1.63s      | 1.71s       |
-| Fully loaded               | 13.19s     | 7.11s       |
-| Response size              | 1184.78KiB | 144.71KiB   |
-| Response size (compressed) | 842.38KiB  | 142.28KiB   |
+| Number of requests         | 93         | 13          |
+| Time to first byte         | 2.48s      | 1.63s       |
+| Fully loaded               | 19.96s     | 6.47s       |
+| Response size              | 1300.70KiB | 143.40KiB   |
+| Response size (compressed) | 932.51KiB  | 141.15KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 32%        | 32%         |
-| First Meaningful Paint   | 5.50s      | 5.50s       |
-| First Interactive        | 15.15s     | 15.15s      |
-| Consistently Interactive | 15.15s     | 15.15s      |
-| Speed Index Metric       | 12587      | 12587       |
+| Performance              | 30%        | 30%         |
+| First Meaningful Paint   | 5.57s      | 5.57s       |
+| First Interactive        | 15.70s     | 15.70s      |
+| Consistently Interactive | 15.70s     | 15.70s      |
+| Speed Index Metric       | 13401      | 13401       |
 | Estimated Input Latency  | 0.05s      | 0.05s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -65,25 +65,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180406_8X_65d79fc34d1e4058a00c63f45aa00a74)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180407_9D_b228d682a3ecf7f7ad9f16a43a11d970)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.57s      | 1.68s       |
-| Fully loaded               | 6.21s      | 3.29s       |
-| Response size              | 212.77KiB  | 8.08KiB     |
-| Response size (compressed) | 173.97KiB  | 7.76KiB     |
+| Time to first byte         | 1.73s      | 1.73s       |
+| Fully loaded               | 6.24s      | 3.38s       |
+| Response size              | 212.89KiB  | 8.08KiB     |
+| Response size (compressed) | 174.10KiB  | 7.75KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
 | Performance              | 84%        | 84%         |
-| First Meaningful Paint   | 2.38s      | 2.38s       |
-| First Interactive        | 4.82s      | 4.82s       |
-| Consistently Interactive | 4.82s      | 4.82s       |
-| Speed Index Metric       | 2665       | 2665        |
+| First Meaningful Paint   | 2.32s      | 2.32s       |
+| First Interactive        | 4.99s      | 4.99s       |
+| Consistently Interactive | 4.99s      | 4.99s       |
+| Speed Index Metric       | 2642       | 2642        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
