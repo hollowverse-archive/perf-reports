@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-04-15
+# Report for tests performed on 2018-04-16
 
 ## https://hollowverse.com
 
@@ -20,27 +20,27 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180415_47_66e0ff32f87beecf1a9893d05fd3033f)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180416_HM_f17ff2f1ff62ce0dbaa8f92b5efb4d91)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 78         | 31          |
-| Time to first byte         | 1.78s      | 1.63s       |
-| Fully loaded               | 13.21s     | 10.28s      |
-| Response size              | 1189.12KiB | 251.49KiB   |
-| Response size (compressed) | 847.11KiB  | 233.43KiB   |
+| Number of requests         | 76         | 15          |
+| Time to first byte         | 1.46s      | 1.62s       |
+| Fully loaded               | 13.51s     | 5.93s       |
+| Response size              | 1189.04KiB | 147.25KiB   |
+| Response size (compressed) | 847.15KiB  | 144.37KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 43%        | 43%         |
-| First Meaningful Paint   | 5.09s      | 5.09s       |
-| First Interactive        | 11.35s     | 11.35s      |
-| Consistently Interactive | 11.35s     | 11.35s      |
-| Speed Index Metric       | 9048       | 9048        |
-| Estimated Input Latency  | 0.03s      | 0.03s       |
-| PWA                      | 45%        | 45%         |
+| Performance              | 37%        | 37%         |
+| First Meaningful Paint   | 5.41s      | 5.41s       |
+| First Interactive        | 9.23s      | 9.23s       |
+| Consistently Interactive | 17.69s     | 17.69s      |
+| Speed Index Metric       | 15274      | 15274       |
+| Estimated Input Latency  | 0.05s      | 0.05s       |
+| PWA                      | 55%        | 55%         |
 | Accessibility            | 92%        | 92%         |
 | Best Practices           | 81%        | 81%         |
 | SEO                      | 89%        | 89%         |
@@ -65,30 +65,30 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180415_MM_f765690838397a965e0b3613da3835a8)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180416_8W_9ae6cfb76bf9a3df05ca12c7d733b4c3)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.67s      | 1.46s       |
-| Fully loaded               | 6.64s      | 3.19s       |
-| Response size              | 213.46KiB  | 8.08KiB     |
-| Response size (compressed) | 174.68KiB  | 7.75KiB     |
+| Time to first byte         | 1.55s      | 1.76s       |
+| Fully loaded               | 6.72s      | 3.48s       |
+| Response size              | 213.33KiB  | 8.13KiB     |
+| Response size (compressed) | 174.54KiB  | 7.81KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 74%        | 74%         |
-| First Meaningful Paint   | 3.70s      | 3.70s       |
-| First Interactive        | 4.96s      | 4.96s       |
-| Consistently Interactive | 4.96s      | 4.96s       |
-| Speed Index Metric       | 4007       | 4007        |
+| Performance              | 86%        | 86%         |
+| First Meaningful Paint   | 2.13s      | 2.13s       |
+| First Interactive        | 4.72s      | 4.72s       |
+| Consistently Interactive | 4.72s      | 4.72s       |
+| Speed Index Metric       | 2478       | 2478        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
 | Best Practices           | 94%        | 94%         |
-| SEO                      | 90%        | 90%         |
+| SEO                      | 100%       | 100%        |
 
 ## https://dev.hollowverse.com
 
@@ -110,25 +110,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180415_21_f5d395a0013aee640848c98aac776e7b)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180416_SD_66c2d474efe1d00c687b6d5654eba5a8)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 76         | 32          |
-| Time to first byte         | 1.71s      | 1.80s       |
-| Fully loaded               | 17.10s     | 11.60s      |
-| Response size              | 1189.00KiB | 267.34KiB   |
-| Response size (compressed) | 847.31KiB  | 235.05KiB   |
+| Number of requests         | 76         | 29          |
+| Time to first byte         | 1.49s      | 1.76s       |
+| Fully loaded               | 13.81s     | 11.99s      |
+| Response size              | 1173.35KiB | 223.16KiB   |
+| Response size (compressed) | 869.54KiB  | 216.89KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 38%        | 38%         |
-| First Meaningful Paint   | 5.52s      | 5.52s       |
-| First Interactive        | 12.30s     | 12.30s      |
-| Consistently Interactive | 12.30s     | 12.30s      |
-| Speed Index Metric       | 9724       | 9724        |
+| Performance              | 40%        | 40%         |
+| First Meaningful Paint   | 5.23s      | 5.23s       |
+| First Interactive        | 12.25s     | 12.25s      |
+| Consistently Interactive | 12.25s     | 12.25s      |
+| Speed Index Metric       | 9287       | 9287        |
 | Estimated Input Latency  | 0.04s      | 0.04s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -155,26 +155,26 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180415_HF_b9a5841f07e14f2f1913fe159c017f3d)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180416_SF_c30cc90743237cfcd52552b176e5523e)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 3.05s      | 1.72s       |
-| Fully loaded               | 14.19s     | 3.37s       |
-| Response size              | 212.56KiB  | 8.06KiB     |
-| Response size (compressed) | 173.87KiB  | 7.74KiB     |
+| Time to first byte         | 1.50s      | 1.51s       |
+| Fully loaded               | 7.72s      | 3.15s       |
+| Response size              | 215.52KiB  | 1.07KiB     |
+| Response size (compressed) | 185.26KiB  | 0.00KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 84%        | 84%         |
-| First Meaningful Paint   | 2.40s      | 2.40s       |
-| First Interactive        | 4.83s      | 4.83s       |
-| Consistently Interactive | 4.83s      | 4.83s       |
-| Speed Index Metric       | 2736       | 2736        |
-| Estimated Input Latency  | 0.02s      | 0.02s       |
+| Performance              | 86%        | 86%         |
+| First Meaningful Paint   | 2.14s      | 2.14s       |
+| First Interactive        | 4.69s      | 4.69s       |
+| Consistently Interactive | 4.69s      | 4.69s       |
+| Speed Index Metric       | 2436       | 2436        |
+| Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
 | Best Practices           | 94%        | 94%         |
@@ -192,13 +192,17 @@
 
 ## AWS Lambda Health
 
-| Function                                                 | Number of Invocation Errors (for the past 24 hours) |
-| -------------------------------------------------------- | --------------------------------------------------- |
-| track-performance-production-reportPerformance           | 0                                                   |
-| release-manager-development-setSetCookieOnOriginResponse | 0                                                   |
-| release-manager-development-assignEnvironment            | 0                                                   |
-| release-manager-development-routeOriginRequest           | 0                                                   |
-| process-image-production-processImage                    | 0                                                   |
-| assignEnvironment                                        | 0                                                   |
-| website-development-serveSsrMarkup                       | 0                                                   |
-| process-image-development-processImage                   | 0                                                   |
+| Function                                                     | Number of Invocation Errors (for the past 24 hours) |
+| ------------------------------------------------------------ | --------------------------------------------------- |
+| track-performance-production-reportPerformance               | 0                                                   |
+| release-manager-development-setSetCookieOnOriginResponse     | 0                                                   |
+| release-manager-development-assignEnvironment                | 0                                                   |
+| release-manager-development-routeRequestToOrigin             | 4                                                   |
+| release-manager-development-routeOriginRequest               | 0                                                   |
+| website-master-serveSsrMarkup                                | 0                                                   |
+| release-manager-development-assignEnvironmentToViewerRequest | 0                                                   |
+| process-image-production-processImage                        | 0                                                   |
+| release-manager-development-setHeadersOnOriginResponse       | 0                                                   |
+| assignEnvironment                                            | 0                                                   |
+| website-beta-serveSsrMarkup                                  | 0                                                   |
+| process-image-development-processImage                       | 0                                                   |
