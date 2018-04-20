@@ -1,10 +1,12 @@
-# Report for tests performed on 2018-04-19
+# Report for tests performed on 2018-04-20
 
 ## https://hollowverse.com
 
-### c
+### Security Headers
 
-Failed to run this reporter: Expected securityheaders.com API call to have a header named "x-grade"
+| URL                     | Grade |
+| ----------------------- | ----- |
+| https://hollowverse.com | A     |
 
 ### Mobile Friendliness
 
@@ -18,26 +20,26 @@ Failed to run this reporter: Expected securityheaders.com API call to have a hea
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180419_FE_36e00b6fd59be5b4e2beff467af7246b)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180420_VZ_f4185abbc98f3860089549683587f6aa)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 81         | 31          |
-| Time to first byte         | 1.73s      | 1.63s       |
-| Fully loaded               | 16.51s     | 14.95s      |
-| Response size              | 1242.26KiB | 221.32KiB   |
-| Response size (compressed) | 898.15KiB  | 215.46KiB   |
+| Number of requests         | 81         | 13          |
+| Time to first byte         | 1.48s      | 1.72s       |
+| Fully loaded               | 14.53s     | 7.00s       |
+| Response size              | 1241.43KiB | 140.15KiB   |
+| Response size (compressed) | 897.98KiB  | 137.77KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 33%        | 33%         |
-| First Meaningful Paint   | 6.01s      | 6.01s       |
-| First Interactive        | 13.81s     | 13.81s      |
-| Consistently Interactive | 13.81s     | 13.81s      |
-| Speed Index Metric       | 10743      | 10743       |
-| Estimated Input Latency  | 0.03s      | 0.03s       |
+| Performance              | 36%        | 36%         |
+| First Meaningful Paint   | 5.13s      | 5.13s       |
+| First Interactive        | 13.82s     | 13.82s      |
+| Consistently Interactive | 13.82s     | 13.82s      |
+| Speed Index Metric       | 10862      | 10862       |
+| Estimated Input Latency  | 0.05s      | 0.05s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
 | Best Practices           | 81%        | 81%         |
@@ -45,9 +47,11 @@ Failed to run this reporter: Expected securityheaders.com API call to have a hea
 
 ## https://hollowverse.com/Tom_Hanks
 
-### c
+### Security Headers
 
-Failed to run this reporter: Expected securityheaders.com API call to have a header named "x-grade"
+| URL                               | Grade |
+| --------------------------------- | ----- |
+| https://hollowverse.com/Tom_Hanks | A     |
 
 ### Mobile Friendliness
 
@@ -61,36 +65,38 @@ Failed to run this reporter: Expected securityheaders.com API call to have a hea
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180419_WK_b0ae0bf48c9708a3905d15fabb577514)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180420_SA_9765a819a1811fcf49647c01c1474696)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 16         | 2           |
-| Time to first byte         | 1.65s      | 1.70s       |
-| Fully loaded               | 6.87s      | 3.35s       |
-| Response size              | 213.63KiB  | 8.10KiB     |
-| Response size (compressed) | 174.82KiB  | 7.76KiB     |
+| Number of requests         | 16         | 3           |
+| Time to first byte         | 1.49s      | 1.64s       |
+| Fully loaded               | 6.26s      | 3.88s       |
+| Response size              | 213.63KiB  | 8.16KiB     |
+| Response size (compressed) | 174.83KiB  | 7.80KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 85%        | 85%         |
-| First Meaningful Paint   | 2.24s      | 2.24s       |
-| First Interactive        | 4.90s      | 4.90s       |
-| Consistently Interactive | 4.90s      | 4.90s       |
-| Speed Index Metric       | 2562       | 2562        |
-| Estimated Input Latency  | 0.02s      | 0.02s       |
+| Performance              | 80%        | 80%         |
+| First Meaningful Paint   | 2.64s      | 2.64s       |
+| First Interactive        | 5.24s      | 5.24s       |
+| Consistently Interactive | 5.24s      | 5.24s       |
+| Speed Index Metric       | 2982       | 2982        |
+| Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
 | Best Practices           | 94%        | 94%         |
-| SEO                      | 90%        | 90%         |
+| SEO                      | 100%       | 100%        |
 
 ## https://dev.hollowverse.com
 
-### c
+### Security Headers
 
-Failed to run this reporter: Expected securityheaders.com API call to have a header named "x-grade"
+| URL                         | Grade |
+| --------------------------- | ----- |
+| https://dev.hollowverse.com | A     |
 
 ### Mobile Friendliness
 
@@ -104,25 +110,25 @@ Failed to run this reporter: Expected securityheaders.com API call to have a hea
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180419_11_5ffa2985119f6b5afb84cdee4ff463fc)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180420_0C_5190e5836c514f86f38d920b34421cbf)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 83         | 13          |
-| Time to first byte         | 1.74s      | 1.60s       |
-| Fully loaded               | 14.14s     | 7.75s       |
-| Response size              | 1226.38KiB | 124.85KiB   |
-| Response size (compressed) | 920.32KiB  | 121.38KiB   |
+| Number of requests         | 81         | 16          |
+| Time to first byte         | 8.46s      | 1.61s       |
+| Fully loaded               | 20.74s     | 6.07s       |
+| Response size              | 1225.99KiB | 125.23KiB   |
+| Response size (compressed) | 920.17KiB  | 121.29KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 20%        | 20%         |
-| First Meaningful Paint   | 8.68s      | 8.68s       |
-| First Interactive        | 19.36s     | 19.36s      |
-| Consistently Interactive | 19.36s     | 19.36s      |
-| Speed Index Metric       | 15934      | 15934       |
+| Performance              | 44%        | 44%         |
+| First Meaningful Paint   | 4.60s      | 4.60s       |
+| First Interactive        | 11.53s     | 11.53s      |
+| Consistently Interactive | 11.53s     | 11.53s      |
+| Speed Index Metric       | 9058       | 9058        |
 | Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -131,9 +137,11 @@ Failed to run this reporter: Expected securityheaders.com API call to have a hea
 
 ## https://dev.hollowverse.com/Tom_Hanks
 
-### c
+### Security Headers
 
-Failed to run this reporter: Expected securityheaders.com API call to have a header named "x-grade"
+| URL                                   | Grade |
+| ------------------------------------- | ----- |
+| https://dev.hollowverse.com/Tom_Hanks | A     |
 
 ### Mobile Friendliness
 
@@ -147,27 +155,27 @@ Failed to run this reporter: Expected securityheaders.com API call to have a hea
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180419_QB_4546a7981c478161528838a8c1f47796)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180420_S6_9c372e157beada5eebc8c6aab9919d2c)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 16         | 2           |
-| Time to first byte         | 1.51s      | 1.74s       |
-| Fully loaded               | 7.22s      | 3.35s       |
-| Response size              | 215.17KiB  | 1.17KiB     |
-| Response size (compressed) | 184.89KiB  | 0.00KiB     |
+| Time to first byte         | 1.48s      | 1.55s       |
+| Fully loaded               | 8.02s      | 3.24s       |
+| Response size              | 215.51KiB  | 1.17KiB     |
+| Response size (compressed) | 185.11KiB  | 0.00KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 32%        | 32%         |
-| First Meaningful Paint   | 10.68s     | 10.68s      |
-| First Interactive        | 11.80s     | 11.80s      |
-| Consistently Interactive | 11.80s     | 11.80s      |
-| Speed Index Metric       | 10728      | 10728       |
+| Performance              | 82%        | 82%         |
+| First Meaningful Paint   | 2.42s      | 2.42s       |
+| First Interactive        | 5.37s      | 5.37s       |
+| Consistently Interactive | 5.37s      | 5.37s       |
+| Speed Index Metric       | 2709       | 2709        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
-| PWA                      | 45%        | 45%         |
+| PWA                      | 55%        | 55%         |
 | Accessibility            | 97%        | 97%         |
 | Best Practices           | 94%        | 94%         |
 | SEO                      | 100%       | 100%        |
