@@ -1,4 +1,4 @@
-# Report for tests performed on 2018-05-12
+# Report for tests performed on 2018-05-13
 
 ## https://hollowverse.com
 
@@ -20,25 +20,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180512_3N_d3758d447f90611fab5bfe8f35444086)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180513_0N_f615ee336b9aab6d011862d587cb3675)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 95         | 23          |
-| Time to first byte         | 1.66s      | 1.80s       |
-| Fully loaded               | 22.54s     | 9.27s       |
-| Response size              | 1459.73KiB | 158.58KiB   |
-| Response size (compressed) | 1234.71KiB | 153.34KiB   |
+| Number of requests         | 94         | 22          |
+| Time to first byte         | 1.48s      | 1.57s       |
+| Fully loaded               | 18.32s     | 8.60s       |
+| Response size              | 1349.75KiB | 155.71KiB   |
+| Response size (compressed) | 1234.03KiB | 150.17KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 23%        | 23%         |
-| First Meaningful Paint   | 7.30s      | 7.30s       |
-| First Interactive        | 18.22s     | 18.22s      |
-| Consistently Interactive | 18.22s     | 18.22s      |
-| Speed Index Metric       | 13833      | 13833       |
+| Performance              | 30%        | 30%         |
+| First Meaningful Paint   | 6.40s      | 6.40s       |
+| First Interactive        | 10.96s     | 10.96s      |
+| Consistently Interactive | 20.25s     | 20.25s      |
+| Speed Index Metric       | 16278      | 16278       |
 | Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -65,25 +65,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180512_BR_20662194f1991a14908e3a116cb7feb1)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180513_XE_1059b0e6887abb472d8f7e49048a3d66)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 19         | 1           |
-| Time to first byte         | 1.50s      | 1.33s       |
-| Fully loaded               | 7.79s      | 1.34s       |
-| Response size              | 193.55KiB  | 0.34KiB     |
-| Response size (compressed) | 159.19KiB  | 0.00KiB     |
+| Number of requests         | 18         | 2           |
+| Time to first byte         | 1.72s      | 1.60s       |
+| Fully loaded               | 7.21s      | 2.83s       |
+| Response size              | 187.00KiB  | 1.71KiB     |
+| Response size (compressed) | 153.72KiB  | 0.39KiB     |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 78%        | 78%         |
-| First Meaningful Paint   | 3.18s      | 3.18s       |
-| First Interactive        | 4.58s      | 4.58s       |
-| Consistently Interactive | 4.58s      | 4.58s       |
-| Speed Index Metric       | 4775       | 4775        |
+| Performance              | 76%        | 76%         |
+| First Meaningful Paint   | 3.38s      | 3.38s       |
+| First Interactive        | 4.82s      | 4.82s       |
+| Consistently Interactive | 4.82s      | 4.82s       |
+| Speed Index Metric       | 4898       | 4898        |
 | Estimated Input Latency  | 0.02s      | 0.02s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 97%        | 97%         |
@@ -110,25 +110,25 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180512_2D_49f8d7c953ecc90bfa494591ab0a27e9)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180513_5Q_96a5471fcf29f77a6c9fa20228022902)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
-| Number of requests         | 80         | 13          |
-| Time to first byte         | 1.91s      | 1.81s       |
-| Fully loaded               | 17.40s     | 8.13s       |
-| Response size              | 1195.50KiB | 124.32KiB   |
-| Response size (compressed) | 1127.51KiB | 120.52KiB   |
+| Number of requests         | 78         | 13          |
+| Time to first byte         | 1.96s      | 1.60s       |
+| Fully loaded               | 16.22s     | 8.26s       |
+| Response size              | 1195.06KiB | 124.18KiB   |
+| Response size (compressed) | 1127.05KiB | 120.24KiB   |
 
 ### Lighthouse via WebPageTest
 
 | Test                     | First View | Repeat View |
 | ------------------------ | ---------- | ----------- |
-| Performance              | 30%        | 30%         |
-| First Meaningful Paint   | 6.79s      | 6.79s       |
-| First Interactive        | 14.45s     | 14.45s      |
-| Consistently Interactive | 14.45s     | 14.45s      |
-| Speed Index Metric       | 10688      | 10688       |
+| Performance              | 28%        | 28%         |
+| First Meaningful Paint   | 7.65s      | 7.65s       |
+| First Interactive        | 14.80s     | 14.80s      |
+| Consistently Interactive | 14.80s     | 14.80s      |
+| Speed Index Metric       | 11470      | 11470       |
 | Estimated Input Latency  | 0.03s      | 0.03s       |
 | PWA                      | 45%        | 45%         |
 | Accessibility            | 92%        | 92%         |
@@ -155,13 +155,13 @@
 | Font size is large enough for easy reading on a small screen | :heavy_check_mark: Passed |
 | Touch elements are not too close to each other               | :heavy_check_mark: Passed |
 
-### [WebPageTest](http://www.webpagetest.org/results.php?test=180512_7A_1f8fa2cbae3bd517ce230cb6af8da538)
+### [WebPageTest](http://www.webpagetest.org/results.php?test=180513_EA_a6263ee42cee4221a1121b5dc016902b)
 
 | Test                       | First View | Repeat View |
 | -------------------------- | ---------- | ----------- |
 | Number of requests         | 6          | 3           |
-| Time to first byte         | 1.49s      | 0.00s       |
-| Fully loaded               | 7.10s      | 2.32s       |
+| Time to first byte         | 1.45s      | 0.00s       |
+| Fully loaded               | 5.83s      | 2.40s       |
 | Response size              | 18.61KiB   | 0.12KiB     |
 | Response size (compressed) | 14.76KiB   | 0.00KiB     |
 
@@ -173,7 +173,7 @@
 | First Meaningful Paint   | 0.00s      | 0.00s       |
 | First Interactive        | 0.00s      | 0.00s       |
 | Consistently Interactive | 0.00s      | 0.00s       |
-| Speed Index Metric       | 1872       | 1872        |
+| Speed Index Metric       | 1833       | 1833        |
 | Estimated Input Latency  | 0.00s      | 0.00s       |
 | PWA                      | 18%        | 18%         |
 | Accessibility            | 83%        | 83%         |
@@ -207,9 +207,9 @@
 | route-request-development-setHeadersOnOriginResponse       | 0                                                   |
 | website-internal-serveLogEndpoint                          | 0                                                   |
 | route-request-development-routeRequestToOrigin             | 0                                                   |
-| website-master-servePages                                  | 0                                                   |
+| website-master-servePages                                  | 9                                                   |
 | process-image-production-processImage                      | 0                                                   |
-| website-beta-servePages                                    | 2                                                   |
+| website-beta-servePages                                    | 4                                                   |
 | assignEnvironment                                          | 0                                                   |
 | api-production-serveApi                                    | 0                                                   |
 | process-image-development-processImage                     | 0                                                   |
